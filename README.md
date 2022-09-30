@@ -1,3 +1,5 @@
+# :lock: We are discontinuing this and telemetry as part of privacy parts of our goals. May replace later with a optional package to have the same functionality but as privacy oriented and minimal as we can compared to this.
+
 ## Metrics package
 [![OS X Build Status](https://travis-ci.org/atom/metrics.svg?branch=master)](https://travis-ci.org/atom/metrics) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/b5doi205xl3iex04/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/metrics/branch/master) [![Dependency Status](https://david-dm.org/atom/metrics.svg)](https://david-dm.org/atom/metrics)
 
